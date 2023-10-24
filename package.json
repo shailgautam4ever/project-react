@@ -1,0 +1,14 @@
+{
+  "name": "reactpractice",
+  "version": "1.0.0",
+  "description": "Practice react concept",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Shail Gautam",
+  "license": "ISC"
+}
